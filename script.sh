@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ~/ && sudo mkdir workspace && cd ~/workspace
-sudo apt-get install -y git && git clone https://github.com/arpitjain1996/WP.git
+sudo apt-get install -y git && git clone https://Prathmesh98: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@github.com/Prathmesh98/wget-download-files.git
 cd ~/workspace/WP && sudo bash start.sh
 #===========================================================================================================
 # Will install WordPress in instance.
