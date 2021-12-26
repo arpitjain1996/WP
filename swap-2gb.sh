@@ -7,4 +7,4 @@ sudo mkswap /mnt/swap2gb/swap2file
 sudo swapon /mnt/swap2gb/swap2file
 sudo swapon -s
 echo '/mnt/swap2gb/swap2file swap swap sw 0 0' >> /etc/fstab
-cd ~/workspace/wget-download-files
+cd ~/workspace/WP
