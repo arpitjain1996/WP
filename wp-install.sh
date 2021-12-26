@@ -25,7 +25,7 @@ rm -R wordpress
 sudo rm /var/www/html/index.html
 
 cd ~/
-cd workspace/wget-download-files
+cd workspace/WP
 sudo cp site-virtual-host.conf /etc/apache2/sites-enabled/
 sudo cp site-virtual-host-ssl.conf /etc/apache2/sites-enabled/
 sudo rm /etc/apache2/sites-enabled/000-default.conf
