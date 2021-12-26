@@ -9,7 +9,7 @@ sudo apt update -y
 sudo apt install -y mysql-server
 sudo systemctl restart mysql.service
 
-cd ~/workspace/wget-download-files
+cd ~/workspace/WP
 echo ""
 echo ""
 echo ""
